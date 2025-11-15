@@ -1,8 +1,7 @@
 ## Hi! I'm Habis 
 
 # 💫 About Me:
-📍 Toronto, Canada | he/him<br>🧠 Computer Science Student @ TMU<br>📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/habis-ahmad/)
-
+📍 Toronto, Canada <br>🧠 CS @ TMU<br>SWE Intern @ Shopify<br>https://habisahmad.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/habis-ahmad/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habisahmad20@gmail.com) 
