@@ -1,4 +1,4 @@
-## Hi! I'm Habis 
+## Hi 👋 I'm Habis 
 
 # 💫 About Me:
 📍 Toronto, Canada <br>🧠 CS @ TMU<br>💼 SWE Intern @ Shopify
