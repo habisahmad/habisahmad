@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Habis 
 
 # 💫 About Me:
-📍 toronto<br>🧠 cs @ tmu<br>💼 swe intern @ shopify<br>🚀 likes to build cool things<br><br><br>check out my website! http://habisahmad.com/<br>
+📍 toronto<br>🧠 cs @ tmu<br>💼 mts intern @ abrdige | previously @ shopify! <br>🚀 likes to build cool things<br><br><br>check out my website! http://habisahmad.com/<br>
 
 
 ## 🌐 Socials:
